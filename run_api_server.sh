@@ -1,0 +1,1 @@
+sudo .venv/bin/python api_server.py
