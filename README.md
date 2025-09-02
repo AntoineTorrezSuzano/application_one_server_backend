@@ -1,5 +1,5 @@
 # Project application_one_server_backend 
-*v1.0.0-alpha
+*v1.0.0-alpha*
 This projet is the backend of the application_one Rust App (Windows 10/11)
 It is originaly runned on a Rocky Linux 10, it has not been tested on other Linux district
 it require the use of Bash files (.sh), python and pip (a venv is provided to run correctly `api_server.py` with `run_after_git_clone.sh` file) and podman which is an alternative of Docker since Rocky Linux 10 is too recent to use Docker
